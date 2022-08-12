@@ -1,0 +1,12 @@
+h1{
+    color: tomato;
+    background-color: blue;
+    margin: 20px 30px;
+    height: 200px;
+    width: 400px;
+    text-transform: capitalize;
+    text-align: center;
+    border: 3px solid black;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
